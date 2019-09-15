@@ -1,0 +1,79 @@
+     
+
+  
+        header
+            {background-image: url("../img/bgg.jpg");
+                min-height: 500px;
+            }
+h1 
+{
+color:white;
+padding: 10px;
+    font-size: 50 px;
+    
+}
+
+body {
+  background-color: lightblue;
+}
+
+h2{
+    color:cyan;
+}
+h3{
+    color:olivedrab;
+}
+
+ul{list-style: none;
+    float: right;
+}
+li
+{display: inline;
+padding: 10px;
+    font-size: 24px;
+}
+li a
+{text-decoration: none;
+color: floralwhite;}
+a:hover{color: chartreuse;}
+img{width:150px;
+float: left;}
+
+.paper{
+        position: absolute;
+    top: 17%;
+    left: 39%;
+    line-height: 50px;
+    
+        
+}
+
+.paper a {
+    background-color: darkorchid;
+    padding: 0 6px;
+    color: white;
+    display: inline-block;
+    border-radius: 14px;
+}
+.p-howitworks{
+    padding-left: 70%;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto; 
+    clear: both;
+    
+}
+.border{
+    width:400px;
+    padding:5px;
+}
+
+.input-box{
+    width: 49.2%;
+    margin-top:15px; ;
+    
+        float:left;
+        display:block;
+    
+}
