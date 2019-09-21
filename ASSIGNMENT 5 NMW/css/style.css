@@ -1,0 +1,38 @@
+
+
+
+
+.container {
+  margin-top: 8px;
+  vertical-align: middle;
+    width: 700px;
+    height: 400px;
+    padding-top: 10px;
+
+}
+
+
+
+   h1{ background-color: #2196F3;
+    opacity: 0.6;
+        color: #FF9800;}
+    .row::after {
+  content: "";
+  clear: both;
+  display: block;
+}
+}
+
+.header {
+  background-color: #9933cc;
+  color: #ffffff;
+  padding: 15px;
+}
+
+ 
+
+
+        body{
+            background: pink;
+    }
+
