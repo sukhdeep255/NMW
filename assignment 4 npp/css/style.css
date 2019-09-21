@@ -1,0 +1,33 @@
+h1{
+    background-color: darkmagenta;
+    font-style:italic;
+    font-size: 50px;
+}
+h2{
+    background-color: darkmagenta;
+    font-style:italic;
+    font-size: 50px;
+}
+h3{
+    background-color: darkmagenta;
+    font-style:italic;
+    font-size: 50px;
+    
+}
+h4{
+    background-color: darkmagenta;
+    font-style:italic;
+      font-size: 50px;
+    
+}
+
+.container{
+    width: 800px;
+    height: 600px;
+    padding-left: 195px;
+    
+}
+p{
+ font-size: 28px;
+
+}
