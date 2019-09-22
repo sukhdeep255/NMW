@@ -1,0 +1,59 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.b{
+float:left;
+text-align:center;
+width:100%;
+
+}
+
+.c{
+float:left;
+text-align:center;
+width:25%;
+}
+
+
+.d{
+float:left;
+text-align:center;
+width:25%;
+}
+
+.e{
+ float:left;
+text-align:center;
+width:25%
+}
+
+.f{
+    float:left;
+text-align:center;
+width:25%
+    
+}
+.container{
+    width: 18rem;
+    height: 11rem;
+
+}
+body{
+    background-color: plum;
+}
+.footer{
+    width: 100%;
+    height: 80px;
+    color: pink;
+    margin-top: 50px;
+    position: fixed;
+    float: left;
+     bottom: 0;
+     width: 100%;
+    background-color:olive;
+    text-align: center;
+    font-size: 30px;
+     
+}
